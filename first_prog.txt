@@ -1,3 +1,7 @@
 This is the first line of the code written in India
 
 This is Japan.
+
+New line added in India
+
+CONFLICT RESOLVED
